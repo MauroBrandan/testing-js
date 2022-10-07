@@ -1,0 +1,15 @@
+{
+	"name": "demos",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "jest"
+	},
+	"keywords": [],
+	"author": "Mauro Brandan <maurobrandan.mb@gmail.com>",
+	"license": "MIT",
+	"devDependencies": {
+		"jest": "^29.1.2"
+	}
+}
