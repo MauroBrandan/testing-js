@@ -12,7 +12,7 @@ describe('Test for hello endpoint', () => {
   });
 
   afterAll(async () => {
-    await server.close;
+    await server.close();
   });
 
   describe('test for [GET] /', () => {
